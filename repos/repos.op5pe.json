@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "android_kernel_oneplus_msm8998_ksu",
-      "repo": "https://github.com/yexun1995/pixel_kernel_oneplus_msm8998_ksu",
+      "name": "android_kernel_oneplus_msm8150_ksu",
+      "repo": "https://github.com/PixelExperience-Devices/kernel_oneplus_sm8150",
       "branch": "thirteen",
-      "device": "oneplus5_pe",
-      "defconfig": "cheeseburger_defconfig"
+      "device": "oneplus7tp",
+      "defconfig": "vendor/sm8150-perf_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
