@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "android_kernel_oneplus_msm8150_ksu",
-      "repo": "https://github.com/PixelExperience-Devices/kernel_oneplus_sm8150",
+      "repo": "https://github.com/yaap/kernel_oneplus_sm8150",
       "branch": "thirteen",
       "device": "oneplus7tp",
-      "defconfig": "cuttlefish_defconfig"
+      "defconfig": "stockish_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
